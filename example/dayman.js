@@ -10,7 +10,7 @@ describe('DayMan', function () {
   });
 
   it('is the champion of the sun', function () {
-    expect(dayman.isChampionOfTheSun).toBeTruthy();
+    expect(dayman.isChampionOfTheSun()).toBeTruthy();
   });
 
   describe('when he beat the Nightman', function () {
@@ -19,7 +19,7 @@ describe('DayMan', function () {
     });
 
     it('became a master of karate', function () {
-        expect(dayman.isMasterOfKarate).toBeTruthy();
+        expect(dayman.isMasterOfKarate()).toBeTruthy();
     });
   });
 });

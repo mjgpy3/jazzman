@@ -19,7 +19,7 @@
 #>
 
 #>## Usage:
-#> jazzman.rb <input-file> <output-file>
+#> jazzman.rb jazzman_file jasmine_file
 #>
 input, output = ARGV
 
