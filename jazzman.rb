@@ -20,8 +20,9 @@
 
 #>## Usage:
 #>```
-#> jazzman.rb jazzman_file jasmine_file
+#> jazzman.rb jazzman_input_file jasmine_output_file
 #>```
+#> Note, `jasmine_output_file` will be overwritten by this operation
 #>
 input, output = ARGV
 
