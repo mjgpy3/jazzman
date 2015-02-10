@@ -28,4 +28,4 @@
  - `[[` => `', function () {`
  - `]]` => `});`
 
- See example for an example
+ See example folder for an example

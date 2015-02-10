@@ -58,4 +58,4 @@ end
 File.open(output, 'w') { |f| f.write(text) }
 
 #>
-#> See example for an example
+#> See example folder for an example
