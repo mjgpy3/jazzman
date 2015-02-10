@@ -15,7 +15,9 @@
  - Simplest
 
 ## Usage:
+```
  jazzman.rb jazzman_file jasmine_file
+```
 
 ## Performs the following, dead-simple transformations, in order:
  - `before[[` => `beforeEach(function () {`
